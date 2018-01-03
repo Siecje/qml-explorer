@@ -1,0 +1,22 @@
+{
+  "name": "io.qpm.qml-explorer",
+  "description": "A Debug Console to Explore QML",
+  "author": {
+    "name": "Cody Scott",
+    "email": "cody.j.b.scott@gmail.com"
+  },
+  "repository": {
+    "type": "GITHUB",
+    "url": "https://github.com/Siecje/qml-explorer.git"
+  },
+  "version": {
+    "label": "0.0.1",
+    "revision": "",
+    "fingerprint": ""
+  },
+  "dependencies": [
+  ],
+  "license": "BSD_3_CLAUSE",
+  "pri_filename": "qml-explorer.pri",
+  "webpage": "https://github.com/Siecje/qml-explorer"
+}
