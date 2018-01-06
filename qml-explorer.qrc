@@ -1,6 +1,6 @@
-
 <RCC>
-    <qresource prefix="/qml-explorer">
-        <file>qmldir</file>
+    <qresource prefix="/qt-project.org/imports/">
+        <file>Explorer/Explorer.qml</file>
+        <file>Explorer/qmldir</file>
     </qresource>
 </RCC>
